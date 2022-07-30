@@ -1,4 +1,5 @@
 
+# Add column to dataframe in R
 # Create dataframe
 df=data.frame(id=c(11,22),
               pages=c(32,45),
