@@ -3,7 +3,7 @@ v <- c('a1','ABC','bc','A',NA)
 print(v)
 typeof(v)
 
-# Create Character Vector of empty Strings
+# Create Character Vector of Empty Strings
 v <- character(5)
 length(v)
 print(v)
