@@ -1,5 +1,6 @@
-# Convert List to Vector
+# R Convert List to Vector
 
+# Create list
 li <- list('A','B','C')
 print(li)
 
