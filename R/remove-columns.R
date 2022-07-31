@@ -1,3 +1,5 @@
+# R Example - Rename Column of DataFrame
+
 # Create dataframe
 df=data.frame(id=c(11,22,33,44,55),
               pages=c(32,45,33,22,56),
