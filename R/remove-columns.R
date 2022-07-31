@@ -1,4 +1,4 @@
-# R Example - Rename Column of DataFrame
+# R Example - Remove Column of DataFrame
 
 # Create dataframe
 df=data.frame(id=c(11,22,33,44,55),
