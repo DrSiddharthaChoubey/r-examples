@@ -1,3 +1,4 @@
+# add empty column to dataframe
 
 # Create dataframe
 df=data.frame(id=c(11,22),
