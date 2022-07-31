@@ -12,6 +12,7 @@ df
 chapters = c(76,86)
 df$chapters = chapters
 df
+#R Example of Add Column to DataFrame
 
 # By using bracket notation
 chapters = c(76,86)
