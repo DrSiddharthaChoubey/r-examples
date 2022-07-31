@@ -1,3 +1,5 @@
+# R Example of Combine Vectors into single Vector
+
 # Combine vectors
 v1 <- c('A','B','C')
 v2 <- c('X','Y','Z')
