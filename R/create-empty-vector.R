@@ -1,3 +1,5 @@
+# R Example of Create Empty Vector
+
 # Create empty vector using c()
 v <- c()
 print(v)

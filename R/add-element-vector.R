@@ -1,3 +1,5 @@
+#R example of add element to vector
+
 # Using R base append()
 vec = c('java','python')
 vec2 <- append(vec,'r')

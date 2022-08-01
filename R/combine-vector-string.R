@@ -1,3 +1,5 @@
+#R Example of Combine Vectors into String
+
 # Using paste() function
 v <- c('A','B','C','D')
 print(v)
