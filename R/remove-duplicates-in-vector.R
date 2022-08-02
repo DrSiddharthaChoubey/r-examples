@@ -1,4 +1,4 @@
-# Rempve duplicates from vector in R
+# Remove duplicates from vector in R
 
 # Create vector
 v <- c('A','B','D','C','A','F','G','C','d','E','E')
