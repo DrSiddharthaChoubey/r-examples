@@ -23,6 +23,10 @@ emp_df
 dept_df
 add_df
 
+# Join all data frames in list
+list_df = list(emp_df,dept_df,add_df)
+Reduce(function(x, y) merge(x, y, all=FALSE), list_df)
+
 # Load tidyverse package
 library(tidyverse)
 
