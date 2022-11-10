@@ -1,4 +1,5 @@
 # Dates examples
+# Complete example at https://sparkbyexamples.com/r-programming/dates-and-times-in-r/
 
 # Using as.Date()
 x <- as.Date("1970-01-01")
